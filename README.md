@@ -16,7 +16,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" width="400px" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 I am an individual with a keen eye for details, seeking to advance my tech skills and bringing my problem solving skills to engineer responsive solutions along with like-minded peers.
 
@@ -24,7 +24,6 @@ I am an individual with a keen eye for details, seeking to advance my tech skill
 
 ###  Glad to see you here!  
 - 🌱 I am a student studying in 42KL.
-[![ktiong's 42 stats](https://badge42.herokuapp.com/api/stats/ktiong?privacyEmail=true)](https://https://github.com/donutkre/donutkre)
 - 🪐  Exploring Cloud ☁️ while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML.
 - 🎓 Pursuing a Bachelor's degree in Computer Science
 - 🌱 I’m currently learning Deep Reinforcement Learning;
