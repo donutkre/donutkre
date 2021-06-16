@@ -14,10 +14,10 @@ I am an individual with a keen eye for details, seeking to advance my tech skill
 
 ###  Glad to see you here!  
 - ⚡ Working on something amazing.
-- 🌱 I'm currently studying at 42KL.
+- 🌱 Currently studying at 42KL.
 - 🪐 Exploring Cloud ☁️ while facilitating the world with User Experience
 - 🎓 Pursuing a Bachelor's degree in Computer Science
-- 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Cloud, Reinforcement Learning, etc..
+- 🤔 My interests are with NLP, Computer vision, Cloud, Reinforcement Learning, etc..
 - 💬 Ask me about anything, I am happy to help;
 - 💪 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ☕ Coffee addict 
