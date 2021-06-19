@@ -8,9 +8,6 @@
 
 <img align="right" alt="GIF" width="400px" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-I am an individual with a keen eye for details, seeking to advance my tech skills and bringing my problem solving skills to engineer responsive solutions along with like-minded peers.
-
-
 
 ###  Glad to see you here!  
 - ⚡ Working on something amazing.
@@ -24,7 +21,7 @@ I am an individual with a keen eye for details, seeking to advance my tech skill
 
 ---
 ### You can find in me in 🌍
-  <a href="https://www.linkedin.com/in/ktyz/">
+  <a href="https://www.linkedin.com/in/kty/">
     <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   </a> &nbsp;&nbsp;
