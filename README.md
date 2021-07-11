@@ -21,8 +21,6 @@
 
 ---
 ### You can find in me in 🌍
-  <a href="https://www.linkedin.com/in/ktyz/">
-    <img align="left" alt="Satyam Goyal | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/kimyzc/">
