@@ -32,23 +32,23 @@
 - 🪐 Exploring Cloud ☁️ while facilitating the world with User Experience.
 - 🤔 My interests are with Cloud Computing and Cyber Security.
 - 💪 Learn more technologies - Never stop creating new ideas.
+<br />
 
----
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=donutkre&count_private=true&show_icons=true&hide=prs,issues&theme=buefy" alt="GitHub Status"/>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=donutkre&show_icons=true&layout=compact&theme=buefy" alt="Most Used Languages">
 </p>
 
 ### Projects done so far in 42:
-[Libft](https://github.com/donutkre/libft) ( C Standard Library).
-[GNL](https://github.com/donutkre/get_next_line) (File parser in C).
-[Printf](https://github.com/donutkre/printf) (Printf function from scratch in C).
-[Push_swap](https://github.com/donutkre/soolong) (Stack sorting algorithm in C).
-[Minitalk](https://github.com/donutkre/minitalk) (Signals communication in C).
-[So_long](https://github.com/donutkre/soolong) (2D video game in C).
-[Philosopher](https://github.com/donutkre/Philo) (Processor threads in C).
+[Libft](https://github.com/donutkre/libft) ( C Standard Library). <br />
+[GNL](https://github.com/donutkre/get_next_line) (File parser in C). <br />
+[Printf](https://github.com/donutkre/printf) (Printf function from scratch in C). <br />
+[Push_swap](https://github.com/donutkre/soolong) (Stack sorting algorithm in C). <br />
+[Minitalk](https://github.com/donutkre/minitalk) (Signals communication in C). <br />
+[So_long](https://github.com/donutkre/soolong) (2D video game in C). <br />
+[Philosopher](https://github.com/donutkre/Philo) (Processor threads in C). <br />
 
----
+
 ### Exposure
 #### Languages
 ![Python]( https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
