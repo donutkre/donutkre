@@ -29,7 +29,6 @@
 > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 - ☕ Coffee addict 
 - 💻 I <s>like</s> love coding
-- 🪐 Exploring Cloud ☁️ while facilitating the world with User Experience.
 - 🤔 My interests are with Cloud Computing and Cyber Security.
 - 💪 Learn more technologies - Never stop creating new ideas.
 <br />
