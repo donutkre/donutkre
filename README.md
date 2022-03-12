@@ -19,8 +19,8 @@
 </h1>
 <p align="center">
   <em>
-    <b> This is Kim, an undergraduate Comp Sci student at <b>University of London.</b> <br>
-    An aspiring <b>Software Engineer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> currently looking for opportunities.  <br>I love to learn and contribute in any and every possible way.  <br>I'm passionate about technology, fitness and culinary.</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
+    <b> This is Kim, 42 KL Student studying Software Development and Year 2 Comp Sci student at <b>UOL.</b> <br>
+    Seeking looking for new opportunities.  <br>I love to learn and contribute in any and every possible way.  <br>I'm passionate about tech, fitness and baking.</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
   </em> 
   <br><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>DON'T STOP HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
@@ -29,11 +29,9 @@
 > <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs:***
 - ☕ Coffee addict 
 - 💻 I <s>like</s> love coding
-- 🌱 Currently studying at 42KL.
-- 🪐 Exploring Cloud ☁️ while facilitating the world with User Experience
-- 🤔 My interests are with NLP, Computer vision, Cloud, Reinforcement Learning, etc..
-- 💪 Future Goals: Learn more technologies - Never stop creating new ideas.
-
+- 🪐 Exploring Cloud ☁️ while facilitating the world with User Experience.
+- 🤔 My interests are with Cloud Computing and Cyber Security.
+- 💪 Learn more technologies - Never stop creating new ideas.
 
 ---
 <p align="left">
@@ -41,8 +39,17 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=donutkre&show_icons=true&layout=compact&theme=buefy" alt="Most Used Languages">
 </p>
 
+### Projects done so far in 42:
+[Libft](https://github.com/donutkre/libft) ( C Standard Library).
+[GNL](https://github.com/donutkre/get_next_line) (File parser in C).
+[Printf](https://github.com/donutkre/printf) (Printf function from scratch in C).
+[Push_swap](https://github.com/donutkre/soolong) (Stack sorting algorithm in C).
+[Minitalk](https://github.com/donutkre/minitalk) (Signals communication in C).
+[So_long](https://github.com/donutkre/soolong) (2D video game in C).
+[Philosopher](https://github.com/donutkre/Philo) (Processor threads in C).
 
 ---
+### Exposure
 #### Languages
 ![Python]( https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -51,7 +58,6 @@
 #### Cloud
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![DO](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 
 #### Frontend
 ![HTML5](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
