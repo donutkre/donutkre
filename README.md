@@ -34,15 +34,6 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=donutkre&show_icons=true&layout=compact&theme=buefy" alt="Most Used Languages">
 </p>
 
-### Projects done so far in 42:
-[Libft](https://github.com/donutkre/libft) ( C Standard Library). <br />
-[GNL](https://github.com/donutkre/get_next_line) (File parser in C). <br />
-[Printf](https://github.com/donutkre/printf) (Printf function from scratch in C). <br />
-[Push_swap](https://github.com/donutkre/soolong) (Stack sorting algorithm in C). <br />
-[Minitalk](https://github.com/donutkre/minitalk) (Signals communication in C). <br />
-[So_long](https://github.com/donutkre/soolong) (2D video game in C). <br />
-[Philosopher](https://github.com/donutkre/Philo) (Processor threads in C). <br />
-
 
 ### Exposure
 #### Languages
