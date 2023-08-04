@@ -29,8 +29,7 @@
 - 💪 Learn more technologies - Never stop creating new ideas.
 <br />
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=donutkre&count_private=true&show_icons=true&hide=prs,issues&theme=buefy" alt="GitHub Status"/>
+
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=donutkre&show_icons=true&layout=compact&theme=buefy" alt="Most Used Languages">
 </p>
 
