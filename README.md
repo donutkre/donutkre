@@ -16,8 +16,7 @@
 </h1>
 <p align="center">
   <em>
-    <b> This is Kim, 42 KL Student studying Software Development and Year 2 Comp Sci student at <b>UOL.</b> <br>
-    Seeking looking for new opportunities.  <br>I love to learn and contribute in any and every possible way.  <br>I'm passionate about tech, fitness and baking.</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
+    <b> This is Kim  <br>I love to learn and contribute in any and every possible way.  <br>I'm passionate about tech, fitness and baking.</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp
   </em> 
   <br><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>DON'T STOP HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
